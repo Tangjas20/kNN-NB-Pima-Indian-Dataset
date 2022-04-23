@@ -28,6 +28,7 @@ The input training file will consist of several rows of data, each with n attrib
 0.193,0.455,0.379,0.284,0.187,0.355,0.058,0.096,yes
 0.489,0.774,0.578,0.218,0.122,0.829,0.104,0.000,no
 0.378,0.839,0.489,0.118,0.173,0.885,0.045,0.691,yes
+
 Testing data file
 The input testing data file will consist of several new examples to test your data on. 
 The file will not have a header row, will have one example per line, 
